@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-##Welcome to my Github Repository. 
+Welcome to my Github Repository. 
 
-##I usually work on JIRA,Devops 
 
-![image](https://github.com/arvindkumarpal19/arvindkumarpal19/assets/139388152/bbf82005-c7c4-42ab-9ced-5d8badd462bf) ![image](https://github.com/arvindkumarpal19/arvindkumarpal19/assets/139388152/834e73af-53fb-46bb-a5c3-08b0162183aa)
 
 
 
