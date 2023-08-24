@@ -4,6 +4,10 @@
 
 ##I usually work on JIRA,Devops 
 
+![image](https://github.com/arvindkumarpal19/arvindkumarpal19/assets/139388152/bbf82005-c7c4-42ab-9ced-5d8badd462bf) ![image](https://github.com/arvindkumarpal19/arvindkumarpal19/assets/139388152/834e73af-53fb-46bb-a5c3-08b0162183aa)
+
+
+
 <!--
 **arvindkumarpal19/arvindkumarpal19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
