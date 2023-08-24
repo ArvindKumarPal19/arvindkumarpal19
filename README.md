@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my Github Repository. 
+
+I usually work on JIRA,Devops 
+
 <!--
 **arvindkumarpal19/arvindkumarpal19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
